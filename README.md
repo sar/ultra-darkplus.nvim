@@ -1,30 +1,6 @@
-# LunarVimColorschemes
+# extra-darkplus.nvim
+Preview
+![image](https://user-images.githubusercontent.com/84747244/150140733-8936150f-a3d0-43f1-859b-6219618da9ce.png)
 
-Collection of colorschemes made to be compatible with LunarVim
-
-## Setup
-
-```sh
-pip install -r requirements.txt
-```
-
-## Adding a template
-
-I recommend copying one of the themes in template and using it as a base to create your own
-
-## Generate your colorscheme
-
-```
-python ez.py <your_cool_theme>.yml
-```
-
-## After generating your colorscheme the following configuration options should be available
-```lua
-vim.g.transparent_background = true        -- transparent background(Default: false)
-vim.g.italic_comments = true               -- italic comments(Default: true)
-vim.g.italic_keywords = true               -- italic keywords(Default: true)
-vim.g.italic_functions = true              -- italic functions(Default: false)
-vim.g.italic_variables = true              -- italic variables(Default: false)
-```
-
-**Credit** for the script for creating colorschemes: [repo](https://github.com/Murtaza-Udaipurwala/ez.nvim)
+Diagnostic & hover info display
+![image](https://user-images.githubusercontent.com/84747244/150141383-f09f13ea-96c5-43b5-9f92-de6f1e840c12.png)
