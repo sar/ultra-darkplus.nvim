@@ -1,19 +1,24 @@
 local colors = {
     fg = "#D4D4D4",
+    -- bg = "#1E1E1E",
     bg = "#000000",
+    -- alt_bg = "#252525",
     alt_bg = "#000000",
+    -- dark = "#222222",
     dark = "#000000",
     accent = "#BBBBBB",
+    -- popup_back = "#2D2D30",
     popup_back = "#000000",
     search_orange = "#613214",
-    search_blue = "#083C5A",
+    search_blue = "#5e81ac",
     white = "#D8DEE9",
-    gray = "#3e3e3e",
+    gray = "#808080",
     -- gray = "#000000",
-    dark_gray = "#232323",
+    dark_gray = "#3e3e3e",
     -- dark_gray = "#000000",
     context = "#606060",
     light_gray = "#cccccc",
+    -- tree_gray = "#252526",
     tree_gray = "#000000",
     blue = "#569CD6",
     vivid_blue = "#4FC1FF",
@@ -53,4 +58,3 @@ local colors = {
 }
 
 return colors
-
